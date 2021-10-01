@@ -1,0 +1,16 @@
+C:\Users\Lucas\PraticaProjetos\Projeto4\obj\Debug\net5.0\Projeto4.csproj.AssemblyReference.cache
+C:\Users\Lucas\PraticaProjetos\Projeto4\obj\Debug\net5.0\Projeto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\PraticaProjetos\Projeto4\obj\Debug\net5.0\Projeto4.AssemblyInfoInputs.cache
+C:\Users\Lucas\PraticaProjetos\Projeto4\obj\Debug\net5.0\Projeto4.AssemblyInfo.cs
+C:\Users\Lucas\PraticaProjetos\Projeto4\obj\Debug\net5.0\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\PraticaProjetos\Projeto4\bin\Debug\net5.0\Projeto4.exe
+C:\Users\Lucas\PraticaProjetos\Projeto4\bin\Debug\net5.0\Projeto4.deps.json
+C:\Users\Lucas\PraticaProjetos\Projeto4\bin\Debug\net5.0\Projeto4.runtimeconfig.json
+C:\Users\Lucas\PraticaProjetos\Projeto4\bin\Debug\net5.0\Projeto4.runtimeconfig.dev.json
+C:\Users\Lucas\PraticaProjetos\Projeto4\bin\Debug\net5.0\Projeto4.dll
+C:\Users\Lucas\PraticaProjetos\Projeto4\bin\Debug\net5.0\ref\Projeto4.dll
+C:\Users\Lucas\PraticaProjetos\Projeto4\bin\Debug\net5.0\Projeto4.pdb
+C:\Users\Lucas\PraticaProjetos\Projeto4\obj\Debug\net5.0\Projeto4.dll
+C:\Users\Lucas\PraticaProjetos\Projeto4\obj\Debug\net5.0\ref\Projeto4.dll
+C:\Users\Lucas\PraticaProjetos\Projeto4\obj\Debug\net5.0\Projeto4.pdb
+C:\Users\Lucas\PraticaProjetos\Projeto4\obj\Debug\net5.0\Projeto4.genruntimeconfig.cache
